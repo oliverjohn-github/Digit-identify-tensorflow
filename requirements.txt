@@ -1,0 +1,8 @@
+tensorflow
+keras
+gradio
+
+to install gradio
+run the following command
+
+pip install gradio
